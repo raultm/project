@@ -1,0 +1,12 @@
+{
+    "name": "raultm/project",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/raultm/library"
+        }
+    ],
+    "require": {
+        "raultm/lib": "0.0.*"
+    }
+}
